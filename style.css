@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200&family=Palanquin+Dark&family=Salsa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200&family=Palanquin+Dark&family=Salsa&family=Sintony&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@200&family=Forum&family=Palanquin+Dark&family=Salsa&family=Sintony&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #ffe5f9 0%, #9198e5 100%);
+}
+
+h1 {
+    color: #060665;
+    font-size: 40px;
+    font-family: forum;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    color: #060665;
+    font-size: 25px;
+    font-family: Serif Display;
+    font-weight: bold;
+    text-align: left;
+}
+
+#bio-container {
+    font-size: 15px; 
+    color: #060665; 
+    font-family: Serif Display;
+}
